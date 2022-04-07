@@ -1,4 +1,6 @@
-### [ web-hosted backgrounds ]
+*me, I simply use this for sites that use URLs instead of uploads :)*
+
+### [ backgrounds ]
 - high quality images, videos, and gifs that you can use as a wallpaper!
 - mostly japanese media ( anime )
 - found [here](https://github.com/excavious/Backgrounds/tree/main/Backgrounds)
